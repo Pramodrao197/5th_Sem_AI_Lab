@@ -1,8 +1,4 @@
 
-# Forward Chaining in First Order Logic
-# Problem: Prove that Robert is a Criminal
-
-# Initial Facts
 facts = {
     ("American", "Robert"),
     ("Enemy", "CountryA", "America"),
